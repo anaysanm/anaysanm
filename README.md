@@ -5,6 +5,22 @@
 <br>
 <br>
 <br>
+
+<div diplay="flex">
+<div align="center">  
+ 
+
+</div>
+ 
+<div align="center">  
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anaysanm&show_icons=true&count_private=true&hide_border=true&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+
+</div>
+ 
+</div>
+
+
+
 <div align="center">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
